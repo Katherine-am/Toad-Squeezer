@@ -1,0 +1,67 @@
+.wrapper {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: black;
+    background-size: 100%;
+    border: 5px solid grey;
+}
+
+.selectArena {
+    width: 250px;
+    height: 125px;
+    margin: 100px 375px;
+    background-color: rgb(184, 184, 184);
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+
+.areaLocation {
+    margin-left: 15px;
+}
+
+h1 {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 500;
+    text-shadow: 2px 2px white;
+    text-align: center;
+    color: orange;
+}
+
+button {
+    width: 70px;
+    font-family: "Open Sans";
+    border-radius: 5px;
+    padding: 7px 10px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.selectPlayers {
+    width: 250px;
+    height: 125px;
+    margin: 100px 375px;
+    background-color: rgb(184, 184, 184);
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+
+.players {
+    margin-left: 50px;
+}
+
+img {
+    width: 100px;
+}
+
+#characterLeft {
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+#characterRight {
+    margin-left: 680px;
+    margin-bottom: 100px;
+}
+
